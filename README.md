@@ -4,7 +4,7 @@
 - I have more than two years of professional experience in the software industry. I am passionate about Data Science, and I enjoy utilizing my strong analytical skills and problem-solving ability to extract insight from unstructured data. 
  
      
-- I earned a `Master of Computer Science` degree at the University of Iowa, where I gained a wide variety of scientific computing techniques such as programming languages for Data science, Numerical analysis, Natural Language processing, Network analysis, Web mining, Information visualization, Geographical database system, and Machine learning models. 
+- I earned a **Master of Computer Science** degree at the University of Iowa, where I gained a wide variety of scientific computing techniques such as **programming languages for Data science**, **Numerical analysis**, **Natural Language processing**, **Network analysis**, **Web mining**, **Information visualization**,**Database System**, **Geographical Database System**, and **Machine Learning Models**. 
 - 👯 I’m looking to collaborate on data Science project. 
 - 💬 Ask me about to find an insight from unstructured data.
 - 📫 How to reach me:  https://www.linkedin.com/in/samuelaboye/ 
