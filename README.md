@@ -8,6 +8,5 @@
 - 👯  I’m looking to collaborate on a Data Science project.
 - 💬 Ask me to find insight from unstructured data.
 - 📫 How to reach me:  https://www.linkedin.com/in/samuelaboye/ 
-- 😄 Pronouns: he/him/his
 - ⚡ Fun fact: 01000011 01101111 01100100 01101001 01101110 01100111 00100000
 
