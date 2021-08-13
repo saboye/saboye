@@ -27,6 +27,6 @@ My specialties and skills include quickly learning new skills and Programming la
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:small_blue_diamond:  Operating systems <b>(Windows, Linux: macOS, Ubuntu, Redhat).</b> <br>
 </p>
 
-- 📫 How to reach me:  https://www.linkedin.com/in/samuelaboye/ 
-- ⚡ Fun fact: 01000011 01101111 01100100 01101001 01101110 01100111 00100000
+:small_blue_diamond: How to reach me:  https://www.linkedin.com/in/samuelaboye/ <br>
+:small_blue_diamond: 01000011 01101111 01100100 01101001 01101110 01100111 00100000
 
