@@ -3,9 +3,9 @@
 <p align="justify">
 I have more than three years of professional experience in the software industry. I am passionate about big data. Possess a Master's degree in Computer Science from the University of Iowa. I am seeking to leverage my expertise in data extraction, web scraping, data wrangling, data acquisition, collecting, transforming, and publishing data. 
 </p> 
-<p align="justify">     
+    
 I earned a **Master of Computer Science** degree at the University of Iowa, where I gained a wide variety of scientific computing techniques such as Software engineering and programming languages for **Data science**, **Numerical analysis**,**Big Data analysis** **Natural Language processing**, **Social network analysis**, **Web mining**, **Information visualization**,**Database System**, **Geographical Database System**, and **Machine Learning Models**.
-</p> 
+
 <p align="justify"
 My specialties and skills include quickly learning new skills and Programming languages, problem-solving, Software development (Methodology and Project Management), and knowledge of database development, data analysis,
 </p>
