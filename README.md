@@ -1,6 +1,6 @@
 # Hi there 👋
 
-#### Data Engineer | AWS Certified 📜| Python | SQL | R | Data Mining  | ETL | Data Warehouse |  Data Lakes  |  Data pipelines  | Automation 
+#### Data Engineer | AWS Certified ☁️| Python | SQL | R | Data Mining  | ETL | Data Warehouse  |  Data Lakes  |  Data pipelines  | Automation 
 ###### ___________________________________________________________________________________________________________________________________________________________________________
 
 <p align="justify">
