@@ -29,7 +29,8 @@ My specialties and skills include quickly learning new skills and Programming la
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:small_blue_diamond:  Data Visualization, <a href="https://public.tableau.com/app/profile/samuel.g." target="_blank">Tableau,</a> and <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:small_blue_diamond:  Operating systems <b>(Windows, Linux: macOS, Ubuntu, Redhat).</b> <br>
 </p>
+<br>
 
-:small_blue_diamond: How to reach me:  https://www.linkedin.com/in/samuelaboye/ <br>
-:small_blue_diamond: 01000011 01101111 01100100 01101001 01101110 01100111 00100000
+<a href="https://linkedin.com/in/samuelaboye" target="_blank"><img src ="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a><br>
+:small_blue_diamond:Fun fact   👉   01000011 01101111 01100100 01101001 01101110 01100111 00100000
 
