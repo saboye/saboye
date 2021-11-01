@@ -1,6 +1,6 @@
 # Hi there 👋
 
-#### Data Engineer | AWS Certified <a href="https://emoji.gg/emoji/8053_SN_Amazon_512x512"><img src="https://emoji.gg/assets/emoji/8053_SN_Amazon_512x512.png" width="16px" height="16px" alt="SN_Amazon_512x512"></a>| Python  <a href="https://emoji.gg/emoji/1887_python"><img src="https://emoji.gg/assets/emoji/1887_python.png" width="14px" height="14px" alt="python"></a> | SQL <a href="https://emoji.gg/emoji/6648_dataemoji"><img src="https://emoji.gg/assets/emoji/6648_dataemoji.png" width="14px" height="14px" alt="dataemoji"></a>| R | Data pipelines  | ETL | Data Warehouse | Data Lakes| 
+## Data Engineer | AWS Certified <a href="https://emoji.gg/emoji/8053_SN_Amazon_512x512"><img src="https://emoji.gg/assets/emoji/8053_SN_Amazon_512x512.png" width="16px" height="16px" alt="SN_Amazon_512x512"></a>| Python  <a href="https://emoji.gg/emoji/1887_python"><img src="https://emoji.gg/assets/emoji/1887_python.png" width="14px" height="14px" alt="python"></a> | SQL <a href="https://emoji.gg/emoji/6648_dataemoji"><img src="https://emoji.gg/assets/emoji/6648_dataemoji.png" width="14px" height="14px" alt="dataemoji"></a>| R | Data pipelines  | ETL | Data Warehouse | Data Lakes| 
 ###### __________________________________________________________________________________________________________________________________________________________________________
 
 <p align="justify">
