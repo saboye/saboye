@@ -6,7 +6,6 @@
 ###### ______________________________________________________________________________________________________________________________________________________________________
 
 &nbsp;
-
 <p align="justify">
 I have more than three years of professional experience in the software industry. I am passionate about big data. Possess a <b>Master's degree in Computer Science</b> from the <b>University of Iowa</b>. I am seeking to leverage my expertise in data extraction, web scraping, data wrangling, data acquisition, collecting, transforming, and publishing data. 
 </p> 
