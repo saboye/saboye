@@ -1,6 +1,8 @@
 ###### ______________________________________________________________________________________________________________________________________________________________________
 
-# Hi there 👋
+<h1 align="center"> Hi there 👋</h1>
+<h1 align="center"> I'm Samuel Aboye.</h1>
+
 ###### ______________________________________________________________________________________________________________________________________________________________________
 ### Data Engineer | AWS Certified<img src="https://emoji.gg/assets/emoji/8053_SN_Amazon_512x512.png" width="16px" height="16px" alt="SN_Amazon_512x512"></a>| Python<img src="https://emoji.gg/assets/emoji/1887_python.png" width="14px" height="14px" alt="python"></a> | SQL<a href="https://emoji.gg/emoji/6648_dataemoji"><img src="https://emoji.gg/assets/emoji/6648_dataemoji.png" width="14px" height="14px" alt="dataemoji"></a>| R| Data pipeline | ETL| Data Warehouse | Data Lakes | 
 ###### ______________________________________________________________________________________________________________________________________________________________________
