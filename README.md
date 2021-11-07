@@ -1,13 +1,13 @@
-###### __________________________________________________________________________________________________________________________________
+###### ______________________________________________________________________________________________________________________________________________________
 
 <h1 align="center"> Hi there 👋</h1>
 <h1 align="center"> I'm Samuel Aboye.</h1>
 
 ###### 
-__________________________________________________________________________________________________________________________________________
+_____________________________________________________________________________________________________________________________________________________
 ### Data Engineer| AWS Certified<img src="https://emoji.gg/assets/emoji/8053_SN_Amazon_512x512.png" width="16px" height="16px" alt="SN_Amazon_512x512"></a>| Python<img src="https://emoji.gg/assets/emoji/1887_python.png" width="14px" height="14px" alt="python"></a>| SQL<a href="https://emoji.gg/emoji/6648_dataemoji"><img src="https://emoji.gg/assets/emoji/6648_dataemoji.png" width="14px" height="14px" alt="dataemoji"></a>| R| Data pipeline | ETL|Data Warehouse | Data Lakes | 
 ###### 
-___________________________________________________________________________________________________________________________________________
+____________________________________________________________________________________________________________________________________________________
 
 <p align="justify">
 I have more than three years of professional experience in the software industry. I am passionate about big data. Possess a <b>Master's degree in Computer Science</b> from the <b>University of Iowa</b>. I am seeking to leverage my expertise in data extraction, web scraping, data wrangling, data acquisition, collecting, transforming, and publishing data. 
