@@ -8,19 +8,21 @@ I'm Samuel Aboye." />
 
 ###### 
 ____________________________________________________________________________________________________________________________________________________________
-### Automation Test Engineer | Data Engineer| AWS Certified<img src="https://emoji.gg/assets/emoji/8053_SN_Amazon_512x512.png" width="16px" height="16px" alt="SN_Amazon_512x512"></a>| Python<img src="https://emoji.gg/assets/emoji/1887_python.png" width="14px" height="14px" alt="python"></a>| SQL<a href="https://emoji.gg/emoji/6648_dataemoji"><img src="https://emoji.gg/assets/emoji/6648_dataemoji.png" width="14px" height="14px" alt="dataemoji"></a>| R| Data pipeline | ETL|Data Warehouse | Data Lakes | 
+### Automation Test Engineer | Data Engineer| Selenium| SeleniumBase| Cypres| JMeter| Playwright | Jenkins | AWS Certified<img src="https://emoji.gg/assets/emoji/8053_SN_Amazon_512x512.png" width="16px" height="16px" alt="SN_Amazon_512x512"></a>| Python<img src="https://emoji.gg/assets/emoji/1887_python.png" width="14px" height="14px" alt="python"></a>| SQL<a href="https://emoji.gg/emoji/6648_dataemoji"><img src="https://emoji.gg/assets/emoji/6648_dataemoji.png" width="14px" height="14px" alt="dataemoji"></a>| R| Data pipeline | ETL|Data Warehouse | Data Lakes | 
 ###### 
 ____________________________________________________________________________________________________________________________________________________________
-
   
 <p align="justify">
-I have more than four years of professional experience in the software industry. I am passionate about big data. Possess a <b>Master's degree in Computer Science</b> from the <b>University of Iowa</b>. I am seeking to leverage my expertise in data extraction, web scraping, data wrangling, data acquisition, collecting, transforming, and publishing data. 
-</p> 
+I am a highly skilled software QA engineer with over five years of experience in the software industry. With a Master's degree in Computer Science from the University of Iowa, I have developed a range of specialized skills, including data extraction, web scraping, data wrangling, and data acquisition, collecting, transforming, and publishing.<p>
 
 <p align="justify">
-My specialties and skills include quickly learning new skills and Programming languages, problem-solving,  Software development (Methodology and Project Management), and knowledge of database development, data analysis and 
-<p>
+In my current role as a software QA engineer, I am responsible for ensuring the quality and reliability of our products through thorough testing and analysis. I have a strong background in software development methodology and project management, and I am skilled in quickly learning new programming languages and tools. I also have a solid understanding of database development and data analysis.<p>
 
+<p align="justify">
+In addition to my technical skills, I am proficient in automation testing using tools such as Selenium, SeleniumBase, Cypress, JMeter, and Playwright. I have extensive experience creating and maintaining automated test cases and using these tools to ensure the smooth and efficient functioning of our products.<p>
+
+<p align="justify">
+Outside of work, I am passionate about staying up-to-date with the latest trends and developments in the software industry and I enjoy participating in online communities and events to learn from and connect with other professionals.<p>
 
 <p style="text-align:center">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:small_blue_diamond:  Programming and script language <b>( Python, R, SQL, Bash, Java, Javascript, HTML, CSS )</b>, <br>
