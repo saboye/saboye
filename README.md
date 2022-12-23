@@ -13,7 +13,7 @@ ________________________________________________________________________________
 ____________________________________________________________________________________________________________________________________________________________
   
 <p align="justify">
-I am a highly skilled software QA engineer with over five years of experience in the software industry. With a Master's degree in Computer Science from the University of Iowa, I have developed a range of specialized skills, including data extraction, web scraping, data wrangling, and data acquisition, collecting, transforming, and publishing.<p>
+I am a highly skilled software QA engineer with over four years of experience in the software industry. With a Master's degree in Computer Science from the University of Iowa, I have developed a range of specialized skills, including data extraction, web scraping, data wrangling, and data acquisition, collecting, transforming, and publishing.<p>
 
 <p align="justify">
 In my current role as a software QA engineer, I am responsible for ensuring the quality and reliability of our products through thorough testing and analysis. I have a strong background in software development methodology and project management, and I am skilled in quickly learning new programming languages and tools. I also have a solid understanding of database development and data analysis.<p>
@@ -23,9 +23,11 @@ In addition to my technical skills, I am proficient in automation testing using 
 
 <p align="justify">
 Outside of work, I am passionate about staying up-to-date with the latest trends and developments in the software industry and I enjoy participating in online communities and events to learn from and connect with other professionals.<p>
-
+  
+  
 <p style="text-align:center">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:small_blue_diamond:  Programming and script language <b>( Python, R, SQL, Bash, Java, Javascript, HTML, CSS )</b>, <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:small_blue_diamond:  Programming and script language <b>( Javascript, Python, R, SQL, Bash, Java, HTML, CSS )</b>,<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:small_blue_diamond:  Automation testing using  <b>( Selenium, SeleniumBase, Cypress, JMeter, and Playwright)</b>, <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:small_blue_diamond:  working with different data types like <b>(JSON, CSV, EXCEL, Text, XML, SQL, Parquet, Avro, ORC)</b>,<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:small_blue_diamond:  Version controlling, Container virtualization: Docker,<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:small_blue_diamond:  Database like <b>(Postgres, SQL Server, MySQL, SQLite, and MongoDB)</b>,<br>
