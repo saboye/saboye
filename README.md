@@ -5,13 +5,13 @@ ________________________________________________________________________________
 <h1 align="center"> I'm Samuel Aboye.</h1> -->
 
 
+<p align="center"><img src="/assets/logo-trans-3.png" style="display: block; margin: auto;"></p>
 
-<img src="https://github.com/saboye/saboye/blob/main/assets/logo-trans-2.png"  alt=" Hi there!
-I'm Samuel Aboye." />
+
 
 ###### 
 ____________________________________________________________________________________________________________________________________________________________
-### Automation Test Engineer | Data Engineer| Selenium| SeleniumBase| Cypres| JMeter| Playwright | Jenkins | AWS Certified<img src="https://emoji.gg/assets/emoji/8053_SN_Amazon_512x512.png" width="16px" height="16px" alt="SN_Amazon_512x512"></a>| Python<img src="https://emoji.gg/assets/emoji/1887_python.png" width="14px" height="14px" alt="python"></a>| SQL<a href="https://emoji.gg/emoji/6648_dataemoji"><img src="https://emoji.gg/assets/emoji/6648_dataemoji.png" width="14px" height="14px" alt="dataemoji"></a>| R| Data pipeline | ETL|Data Warehouse | Data Lakes | 
+### <p align="center">Automation Test Engineer | Data Engineer| Selenium| SeleniumBase| Cypres| JMeter| Playwright | Jenkins | AWS Certified<img src="https://emoji.gg/assets/emoji/8053_SN_Amazon_512x512.png" width="16px" height="16px" alt="SN_Amazon_512x512"></a>| Python<img src="https://emoji.gg/assets/emoji/1887_python.png" width="14px" height="14px" alt="python"></a>| SQL<a href="https://emoji.gg/emoji/6648_dataemoji"><img src="https://emoji.gg/assets/emoji/6648_dataemoji.png" width="14px" height="14px" alt="dataemoji"></a>| R| Data pipeline | ETL|Data Warehouse | Data Lakes | </p>
 ###### 
 ____________________________________________________________________________________________________________________________________________________________
   
