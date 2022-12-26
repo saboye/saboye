@@ -1,9 +1,12 @@
-###### ___________________________________________________________________________________________________________________________
+###### 
+____________________________________________________________________________________________________________________________________________________________
 
 <!-- <h1 align="center"> Hi there 👋</h1>
 <h1 align="center"> I'm Samuel Aboye.</h1> -->
 
-<img src="https://github.com/saboye/assets/blob/main/logo.png" width="933" height="303" alt=" Hi there!
+
+
+<img src="https://github.com/saboye/saboye/blob/main/assets/logo.png"  width="950" height="320" alt=" Hi there!
 I'm Samuel Aboye." />
 
 ###### 
