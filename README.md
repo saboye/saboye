@@ -16,7 +16,7 @@ ________________________________________________________________________________
 ____________________________________________________________________________________________________________________________________________________________
   
 <p align="justify">
-I am a highly skilled software QA engineer with over four years of experience in the software industry. With a Master's degree in Computer Science from the University of Iowa, I have developed a range of specialized skills, including data extraction, web scraping, data wrangling, and data acquisition, collecting, transforming, and publishing.<p>
+I am a highly skilled software QA engineer with over four years of experience in the software industry. With a Master's degree in Computer Science from the University of Iowa, I have developed a range of specialized skills, including Automation and Manual Software Testing, Data Extraction, Web scraping, Data wrangling, and data acquisition, collecting, transforming, and publishing Data.<p>
 
 <p align="justify">
 In my current role as a software QA engineer, I am responsible for ensuring the quality and reliability of our products through thorough testing and analysis. I have a strong background in software development methodology and project management, and I am skilled in quickly learning new programming languages and tools. I also have a solid understanding of database development and data analysis.<p>
