@@ -6,7 +6,7 @@ ________________________________________________________________________________
 
 
 
-<img src="https://github.com/saboye/saboye/blob/main/assets/logo.png"  width="950" height="320" alt=" Hi there!
+<img src="https://github.com/saboye/saboye/blob/main/assets/logo-trans-2.png"  alt=" Hi there!
 I'm Samuel Aboye." />
 
 ###### 
