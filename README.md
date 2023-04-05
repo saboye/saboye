@@ -1,5 +1,5 @@
 ###### 
-____________________________________________________________________________________________________________________________________________________________
+______________________________________________________________________________________________________________________________________________________
 
 <!-- <h1 align="center"> Hi there 👋</h1>
 <h1 align="center"> I'm Samuel Aboye.</h1> -->
@@ -10,23 +10,50 @@ ________________________________________________________________________________
 
 
 ###### 
-____________________________________________________________________________________________________________________________________________________________
-### <p align="center">Automation Test Engineer | Data Engineer| Selenium| SeleniumBase| Cypres| JMeter| Playwright | Jenkins | AWS Certified<img src="https://emoji.gg/assets/emoji/8053_SN_Amazon_512x512.png" width="16px" height="16px" alt="SN_Amazon_512x512"></a>| Python<img src="https://emoji.gg/assets/emoji/1887_python.png" width="14px" height="14px" alt="python"></a>| SQL<a href="https://emoji.gg/emoji/6648_dataemoji"><img src="https://emoji.gg/assets/emoji/6648_dataemoji.png" width="14px" height="14px" alt="dataemoji"></a>| R| Data pipeline | ETL|Data Warehouse | Data Lakes | </p>
-###### 
-____________________________________________________________________________________________________________________________________________________________
+______________________________________________________________________________________________________________________________________________________
+<p align="center">
+  <img src="https://img.shields.io/badge/Playwright-%234478A2.svg?&style=for-the-badge&logo=playwright&logoColor=green">
+  <img src="https://img.shields.io/badge/Cypress-%2317202C.svg?&style=for-the-badge&logo=cypress&logoColor=white">
+  <img src="https://img.shields.io/badge/Selenium-%230075a8.svg?&style=for-the-badge&logo=selenium&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/JMeter-%23E81C27.svg?&style=for-the-badge&logo=apachejmeter&logoColor=white">
+  <img src="https://img.shields.io/badge/Jenkins-%23D24939.svg?&style=for-the-badge&logo=jenkins&logoColor=white">
+  <img src="https://img.shields.io/badge/Amazon%20AWS-%23FF9900.svg?&style=for-the-badge&logo=amazonaws&logoColor=white">
+  <img src="https://img.shields.io/badge/SQL-%230075a8.svg?&style=for-the-badge&logo=sql&logoColor=white">
+  <img src="https://img.shields.io/badge/R-%23276DC3.svg?&style=for-the-badge&logo=r&logoColor=white">
+  <img src="https://img.shields.io/badge/Data%20Pipeline-%23323189.svg?&style=for-the-badge">
+  <img src="https://img.shields.io/badge/ETL-%2300FFFF.svg?&style=for-the-badge">
+  <img src="https://img.shields.io/badge/Data%20Warehouse-%23807E7C.svg?&style=for-the-badge">
+  <img src="https://img.shields.io/badge/Data%20Lakes-%230000FF.svg?&style=for-the-badge">
+  <img src="https://img.shields.io/badge/ISTQB-%23000000.svg?&style=for-the-badge&logo=istqb">
+  <img src="https://img.shields.io/badge/TestCafe-%23E04A3F.svg?&style=for-the-badge&logo=testcafe&logoColor=white">
+  <img src="https://img.shields.io/badge/Webdriver.io-%23EA5906.svg?&style=for-the-badge&logo=webdriverio&logoColor=white">
+  <img src="https://img.shields.io/badge/SeleniumBase-%23FFA500.svg?&style=for-the-badge">
+  <img src="https://img.shields.io/badge/Jira-%23004880.svg?&style=for-the-badge&logo=jira&logoColor=white">
+  <img src="https://img.shields.io/badge/Accessibility-Lighthouse-%23F64A1D.svg?style=for-the-badge">
+   <img src="https://img.shields.io/badge/Accessibility%20Testing-AXE-%23FE5E00.svg?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Accessibility%20Testing-WAVE-%235555FF.svg?style=for-the-badge">
+</p>
+________________________________________________________________________________________________________________________________________________________
   
 <p align="justify">
-I am a highly skilled software QA engineer with over four years of experience in the software industry. With a Master's degree in Computer Science from the University of Iowa, I have developed a range of specialized skills, including Automation and Manual Software Testing, Data Extraction, Web scraping, Data wrangling, and data acquisition, collecting, transforming, and publishing Data.<p>
+I am a seasoned software QA engineer with over five years of experience in the industry. I hold a Bachelor's degree in Computer Science from The University of Iowa and have extensive experience in manual and automated testing.<p>
 
 <p align="justify">
-In my current role as a software QA engineer, I am responsible for ensuring the quality and reliability of our products through thorough testing and analysis. I have a strong background in software development methodology and project management, and I am skilled in quickly learning new programming languages and tools. I also have a solid understanding of database development and data analysis.<p>
+My expertise in automation testing tools such as Selenium, Cypress, Playwright, and JMeter has helped me develop and maintain a robust suite of automated test cases that ensure the quality and reliability of our products. Additionally, I have experience with performance testing, load testing, and stress testing using JMeter and other tools.<p>
 
 <p align="justify">
-In addition to my technical skills, I am proficient in automation testing using tools such as Selenium, SeleniumBase, Cypress, JMeter, and Playwright. I have extensive experience creating and maintaining automated test cases and using these tools to ensure the smooth and efficient functioning of our products.<p>
+I am well-versed in agile software development methodologies and have worked closely with development teams to ensure our testing efforts align with project timelines and goals.<p>
 
 <p align="justify">
-Outside of work, I am passionate about staying up-to-date with the latest trends and developments in the software industry and I enjoy participating in online communities and events to learn from and connect with other professionals.<p>
-  
+Moreover, my knowledge of SQL and database technologies enable me to validate the integrity of data stored in our products effectively. I am also familiar with data extraction, web scraping, data wrangling, and data acquisition techniques that enable me to collect, transform, and publish data accurately and efficiently.<p>
+
+<p align="justify">
+Beyond my technical skills, I am an avid learner who constantly seeks new opportunities to improve my knowledge and skills. I have attended several training sessions, workshops, and industry conferences that have helped me stay current with the latest developments in the software industry. </p>
+
+<p align="justify">
+Outside of work, I am passionate about staying up-to-date with the latest trends and developments in the software industry, and I enjoy participating in online communities and events to learn from and connect with other professionals.</p>
+
   
 <p style="text-align:center">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:small_blue_diamond:  Programming and script language <b>( Javascript, Python, R, SQL, Bash, Java, HTML, CSS )</b>,<br>
