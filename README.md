@@ -39,7 +39,7 @@ ________________________________________________________________________________
 ________________________________________________________________________________________________________________________________________________________
   
 <p align="justify">
-I am an experienced software QA engineer with over five years of experience in the software industry. I hold a Masters's degree in Computer Science from The University of Iowa and have extensive experience in manual and automated testing.<p>
+I am an experienced software QA engineer with over six years of experience in the software industry. I hold a Masters's degree in Computer Science from The University of Iowa and have extensive experience in manual and automated testing.<p>
 
 <p align="justify">
 My expertise in automation testing tools such as Selenium, Cypress, Playwright, and JMeter has helped me develop and maintain a robust suite of automated test cases that ensure the quality and reliability of our products. Additionally, I have experience with performance testing, load testing, and stress testing using JMeter and other tools.<p>
