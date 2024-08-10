@@ -12,49 +12,56 @@ ________________________________________________________________________________
 ###### 
 ______________________________________________________________________________________________________________________________________________________
 <p align="center">
-  <img src="https://img.shields.io/badge/Playwright-%234478A2.svg?&style=for-the-badge&logo=playwright&logoColor=green">
-  <img src="https://img.shields.io/badge/Cypress-%2317202C.svg?&style=for-the-badge&logo=cypress&logoColor=white">
-  <img src="https://img.shields.io/badge/Selenium-%230075a8.svg?&style=for-the-badge&logo=selenium&logoColor=white">
   <img src="https://img.shields.io/badge/Python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/JMeter-%23E81C27.svg?&style=for-the-badge&logo=apachejmeter&logoColor=white">
-  <img src="https://img.shields.io/badge/Jenkins-%23D24939.svg?&style=for-the-badge&logo=jenkins&logoColor=white">
-  <img src="https://img.shields.io/badge/Amazon%20AWS-%23FF9900.svg?&style=for-the-badge&logo=amazonaws&logoColor=white">
-  <img src="https://img.shields.io/badge/SQL-%230075a8.svg?&style=for-the-badge&logo=sql&logoColor=white">
   <img src="https://img.shields.io/badge/R-%23276DC3.svg?&style=for-the-badge&logo=r&logoColor=white">
-  <img src="https://img.shields.io/badge/Data%20Pipeline-%23323189.svg?&style=for-the-badge">
+  <img src="https://img.shields.io/badge/Jupyter-%23F37626.svg?&style=for-the-badge&logo=jupyter&logoColor=white">
+  <img src="https://img.shields.io/badge/NumPy-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white">
+  <img src="https://img.shields.io/badge/Pandas-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white">
+  <img src="https://img.shields.io/badge/Matplotlib-%23000.svg?&style=for-the-badge&logo=matplotlib&logoColor=white">
+  <img src="https://img.shields.io/badge/Seaborn-%2300BFFF.svg?&style=for-the-badge&logo=seaborn&logoColor=white">
+  <img src="https://img.shields.io/badge/Scikit--learn-%23F7931E.svg?&style=for-the-badge&logo=scikit-learn&logoColor=white">
+  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?&style=for-the-badge&logo=tensorflow&logoColor=white">
+  <img src="https://img.shields.io/badge/Keras-%23D00000.svg?&style=for-the-badge&logo=keras&logoColor=white">
+  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?&style=for-the-badge&logo=pytorch&logoColor=white">
+  <img src="https://img.shields.io/badge/SQL-%230075a8.svg?&style=for-the-badge&logo=sql&logoColor=white">
+  <img src="https://img.shields.io/badge/Apache%20Spark-%23E25A1C.svg?&style=for-the-badge&logo=apachespark&logoColor=white">
+  <img src="https://img.shields.io/badge/Apache%20Kafka-%23023131.svg?&style=for-the-badge&logo=apachekafka&logoColor=white">
   <img src="https://img.shields.io/badge/ETL-%2300FFFF.svg?&style=for-the-badge">
+  <img src="https://img.shields.io/badge/Data%20Pipeline-%23323189.svg?&style=for-the-badge">
   <img src="https://img.shields.io/badge/Data%20Warehouse-%23807E7C.svg?&style=for-the-badge">
   <img src="https://img.shields.io/badge/Data%20Lakes-%230000FF.svg?&style=for-the-badge">
-  <img src="https://img.shields.io/badge/ISTQB-%23000000.svg?&style=for-the-badge&logo=istqb">
-  <img src="https://img.shields.io/badge/TestCafe-%23E04A3F.svg?&style=for-the-badge&logo=testcafe&logoColor=white">
-  <img src="https://img.shields.io/badge/Webdriver.io-%23EA5906.svg?&style=for-the-badge&logo=webdriverio&logoColor=white">
-  <img src="https://img.shields.io/badge/SeleniumBase-%23FFA500.svg?&style=for-the-badge">
-  <img src="https://img.shields.io/badge/Jira-%23004880.svg?&style=for-the-badge&logo=jira&logoColor=white">
-  <img src="https://img.shields.io/badge/Accessibility-Lighthouse-%23F64A1D.svg?style=for-the-badge">
-   <img src="https://img.shields.io/badge/Accessibility%20Testing-AXE-%23FE5E00.svg?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Accessibility%20Testing-WAVE-%235555FF.svg?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Tableau-%23E97627.svg?&style=for-the-badge&logo=tableau&logoColor=white">
+  <img src="https://img.shields.io/badge/Power%20BI-%23F2C811.svg?&style=for-the-badge&logo=powerbi&logoColor=black">
+  <img src="https://img.shields.io/badge/Microsoft%20Azure-%230072C6.svg?&style=for-the-badge&logo=microsoftazure&logoColor=white">
+  <img src="https://img.shields.io/badge/Amazon%20AWS-%23FF9900.svg?&style=for-the-badge&logo=amazonaws&logoColor=white">
+  <img src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?&style=for-the-badge&logo=googlecloud&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/Kubernetes-%23326CE5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white">
 </p>
+
 
 ###### 
 ________________________________________________________________________________________________________________________________________________________
   
 <p align="justify">
-I am an experienced software QA engineer with over six years of experience in the software industry. I hold a Masters's degree in Computer Science from The University of Iowa and have extensive experience in manual and automated testing.<p>
+I am a data science graduate with over six years of experience in the software industry, expecting to complete my formal education in the summer. I hold a Master’s degree in Computer Science from The University of Iowa and have built a strong foundation in data analysis, modeling, and automation throughout my career.</p>
 
 <p align="justify">
-My expertise in automation testing tools such as Selenium, Cypress, Playwright, and JMeter has helped me develop and maintain a robust suite of automated test cases that ensure the quality and reliability of our products. Additionally, I have experience with performance testing, load testing, and stress testing using JMeter and other tools.<p>
+My expertise in data processing tools such as Python, R, SQL, and Jupyter has equipped me to develop and maintain robust data pipelines that ensure the quality and reliability of our analyses. Additionally, I have applied machine learning algorithms, including supervised and unsupervised learning, to solve complex problems and generate actionable insights.</p>
 
 <p align="justify">
-I am well-versed in agile software development methodologies and have worked closely with development teams to ensure our testing efforts align with project timelines and goals.<p>
+I am familiar with agile software development methodologies and have worked closely with cross-functional teams to ensure our data-driven initiatives align with project timelines and goals.<p>
 
 <p align="justify">
-Moreover, my knowledge of SQL and database technologies enable me to validate the integrity of data stored in our products effectively. I am also familiar with data extraction, web scraping, data wrangling, and data acquisition techniques that enable me to collect, transform, and publish data accurately and efficiently.<p>
+Furthermore, my proficiency in SQL and database technologies allows me to validate and analyze data effectively. I am skilled in data extraction, web scraping, data wrangling, and data acquisition techniques, which enable me to efficiently collect, transform, and analyze data.</p>
 
 <p align="justify">
-Beyond my technical skills, I am an avid learner who constantly seeks new opportunities to improve my knowledge and skills. I have attended several training sessions, workshops, and industry conferences that have helped me stay current with the latest developments in the software industry. </p>
+As a dedicated learner, I continuously seek opportunities to expand my knowledge and skills. I have attended various training sessions, workshops, and industry conferences to stay up-to-date with the latest advancements in data science and machine learning. </p>
 
 <p align="justify">
-Outside of work, I am passionate about staying up-to-date with the latest trends and developments, and I enjoy participating in online communities and events to learn from and connect with other professionals.</p>
+Beyond my technical expertise, I am passionate about staying current with the latest trends and developments in data science. I actively engage in online communities and events to connect with and learn from other professionals in the field.</p>
 
 - <span style="color:dimgray">**Programming and Script Language:**</span> Javascript, Python, R, SQL, Bash, Java, HTML, CSS
 - <span style="color:dimgray">**Automation Testing:**</span> Selenium, SeleniumBase, Cypress, JMeter, and Playwright
