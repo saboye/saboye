@@ -46,7 +46,7 @@ ________________________________________________________________________________
 ________________________________________________________________________________________________________________________________________________________
   
 <p align="justify">
-I am a data science graduate with over six years of experience in the software industry, expecting to complete my formal education in the summer. I hold a Master’s degree in Computer Science from The University of Iowa and have built a strong foundation in data analysis, modeling, and automation throughout my career.</p>
+I am a data science graduate with over six years of experience in the software industry, expecting to complete my formal education in the summer 2024. I hold a Master’s degree in Computer Science from The University of Iowa and have built a strong foundation in data analysis, modeling, and automation throughout my career.</p>
 
 <p align="justify">
 My expertise in data processing tools such as Python, R, SQL, and Jupyter has equipped me to develop and maintain robust data pipelines that ensure the quality and reliability of our analyses. Additionally, I have applied machine learning algorithms, including supervised and unsupervised learning, to solve complex problems and generate actionable insights.</p>
