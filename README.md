@@ -46,7 +46,7 @@ ________________________________________________________________________________
 ________________________________________________________________________________________________________________________________________________________
   
 <p align="justify">
-I hold two Master’s degrees: a Master’s in Data Science from Bellevue University and a Master’s in Computer Science from The University of Iowa. With over six years of experience in the software industry, I have built a strong foundation in data analysis, modeling, and automation, complemented by my recent graduation in 2025.</p>
+I hold two Master’s degrees: a Master’s in Data Science from Bellevue University and a Master’s in Computer Science from The University of Iowa. With over seven years of experience in the software industry, I have built a strong foundation in data analysis, modeling, and automation, complemented by my recent graduation in 2025.</p>
 
 <p align="justify">
 My expertise in data processing tools such as Python, R, SQL, and Jupyter has equipped me to develop and maintain robust data pipelines that ensure the quality and reliability of our analyses. Additionally, I have applied machine learning algorithms, including supervised and unsupervised learning, to solve complex problems and generate actionable insights.</p>
